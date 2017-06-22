@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "157505965721",
+    "firebase_url": "https://sample-chat-966e8.firebaseio.com",
+    "project_id": "sample-chat-966e8",
+    "storage_bucket": "sample-chat-966e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157505965721:android:052172539eb4cb02",
+        "android_client_info": {
+          "package_name": "com.mutationapps.ansh.fcmsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157505965721-f5u7rne6pn8tugovjo2r5dqeaph7f3lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybNZv66lLb80gMTkAcgEIqszRuqFK_Tg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
